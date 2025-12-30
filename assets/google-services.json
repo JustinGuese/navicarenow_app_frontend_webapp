@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "483758572338",
+    "project_id": "navicarenow",
+    "storage_bucket": "navicarenow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483758572338:android:74a0278950cc7247a74d2b",
+        "android_client_info": {
+          "package_name": "de.navicarenow.pflegeaktenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483758572338-c1j11fd011qdci6hr1efaos93ofm09on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9tQDD0wAiMIfDVW0W5S6bzzzZpGD3krc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483758572338-c1j11fd011qdci6hr1efaos93ofm09on.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "483758572338-8228umrl9mn6tt6bqkij5n1todtfvuh5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "de.navicarenow.pflegeaktenapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
