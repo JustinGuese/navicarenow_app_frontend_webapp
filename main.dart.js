@@ -34108,7 +34108,7 @@ a1U:function a1U(a){this.a=a},
 no(){var s,r,q=$.pq,p=(q==null?$.pq=$.Tj():q).z8("[DEFAULT]")
 A.jX(p,$.yI(),!0)
 q=A.b6Z(new A.nM(p))
-s=A.bcw(A.bbJ("http://localhost:8000",B.nJ,A.N(["Content-Type","application/json"],t.N,t.z),B.nJ))
+s=A.bcw(A.bbJ("https://navicarenow-app-backend-api.datafortress.cloud/",B.nJ,A.N(["Content-Type","application/json"],t.N,t.z),B.nJ))
 r=s.a81$
 r.A(r,new A.FW(q))
 r.A(r,new A.IR(!0,!0,!0))
